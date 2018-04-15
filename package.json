@@ -9,6 +9,7 @@
   "author": "Vivek Chowdhary <noenthu@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.3.2",
+    "node-binance-api": "^0.4.28"
   }
 }
